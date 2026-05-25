@@ -1,0 +1,6 @@
+{
+  "name": "Autonomous AI Agent Architect & Intelligence Hub",
+  "description": "An interactive full-stack instruction system and real-time AI gathering agent simulation. Explains and visualizes multi-agent system designs, memory engines, custom scrapers, RAG, and production architectures.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
